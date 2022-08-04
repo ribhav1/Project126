@@ -1,6 +1,9 @@
 {
   "expo": {
     "name": "Project1261",
+    "expo": {
+      "plugins": ["expo-image-picker"]
+    },
     "slug": "Project1261",
     "version": "1.0.0",
     "orientation": "portrait",
